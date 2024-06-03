@@ -47,7 +47,8 @@ export function World({inv,enemies,createEnemy,attackEnemy,healBase,moveEnemy,he
             }
         })}
         
-        {enemies.map(enemy => {
+        {
+        enemies.map(enemy => {
             return(
                 <Enemy
                 {...enemy}
