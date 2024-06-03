@@ -1,0 +1,13 @@
+*{
+    border:0;
+    margin:0;
+    padding:0;
+
+    height:100vh;
+    width:100vw; 
+
+    font-family:monospace;
+}
+Canvas{
+   background-image:linear-gradient(to bottom right, rgb(147, 142, 253),rgb(113, 251, 182))
+}

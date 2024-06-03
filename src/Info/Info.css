@@ -1,0 +1,26 @@
+#top{
+    position:fixed;
+
+    height:fit-content;
+    width:fit-content;
+
+    top:30px;
+    left:50%;
+    transform: translateX(-50%);
+
+}
+.top-info{
+    color:aliceblue;
+
+    height:fit-content;
+    width:fit-content;
+
+    margin:auto;
+    user-select: none;
+}
+#wave-count{
+    font-size: 40px;
+}
+#money{
+    font-size:30px;
+}
